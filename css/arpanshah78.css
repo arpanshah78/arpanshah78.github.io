@@ -1,0 +1,9 @@
+/*!
+ arpanshah78 CSS */
+
+ .bg-cover {
+	 background: url(../images/make_ur_own_website.jpg);	 
+	 height: 300px;
+	 background-size: 100% 100%;
+	 background-repeat: no-repeat;
+ }
