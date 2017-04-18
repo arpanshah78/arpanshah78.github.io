@@ -10,6 +10,8 @@
 
  .thumbnail {
 	position: relative;
+    width: 50%;
+    height: 50%;
  }
  
  .thumbnail-caption {
