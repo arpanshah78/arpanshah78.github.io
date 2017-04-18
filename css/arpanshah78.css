@@ -12,14 +12,13 @@
 	position: relative;
  }
  
- .caption {
+ .thumbnail-caption {
 	position: absolute; 
-   	top: 10%; 
+   	top: 20%; 
    	left: 70%; 
    	width: 25%;
-    color: black; 
 	font: bold 24px/45px Helvetica, Sans-Serif; 
-   	letter-spacing: -1px;   
-   	background: rgba(255, 255, 255, 0.5); 	
-   	padding: 5px; 
+   	letter-spacing: -1px;      	
+   	padding: 5px;
+    color: hotpink; 
  }
